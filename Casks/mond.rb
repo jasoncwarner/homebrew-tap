@@ -1,6 +1,6 @@
 cask "mond" do
-  version "0.9.4"
-  sha256 "0cc75c0bc91135a3742d132d10fff51c2ec3add838e4dd07d3b2069057fa470d"
+  version "0.9.5"
+  sha256 "96a02ad640592d41ef52ffb8aa946d7c82350b4f2bdc0b5ecc72bfb769cc81b1"
 
   url "https://raw.githubusercontent.com/jasoncwarner/mondo-releases/main/Mond-#{version}.zip"
   name "Mond"
